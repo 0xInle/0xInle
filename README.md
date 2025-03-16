@@ -1,11 +1,27 @@
-<div align="center">
-  <img src="assets/explorer.gif" width="50%" alt="Animated banner">
+```javascript
+const profile = {
+  name: "Sergey Biryukov",
+  role: "Frontend Developer",
+  description: "I transform designs into fast, responsive, and user-friendly websites. Crafting interfaces that look stunning and work flawlessly.",
   
-  <h1>Sergey Biryukov</h1>
-  <h2>Frontend Developer</h2>
-  
-  <p>
-    I transform designs into fast, responsive, and user-friendly websites. <br>
-    Crafting interfaces that look stunning and work flawlessly.
-  </p>
-</div>
+  techStack: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "SCSS",
+    "Node.js",
+    "Gulp"
+  ],
+
+  contact: {
+    email: "xsk8er26x@gmail.com",
+    linkedin: "https://linkedin.com/in/sergey-biryukov",
+    github: "https://github.com/0xInle"
+  },
+
+  learning: [
+    "React",
+    "TypeScript",
+    "GraphQL"
+  ]
+};
