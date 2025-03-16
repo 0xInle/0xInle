@@ -20,3 +20,6 @@ const profile = {
 function printResume(profile) {
   console.log("Done! Now just press Ctrl + P (or Cmd + P for Mac) and hand it over to HR.");
 } printResume(profile);
+
+```
+[![0xInle's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xInle&bg_color=151b23&color=a5d6ff&line=ff7b72&point=d1a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
