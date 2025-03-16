@@ -22,4 +22,4 @@ function printResume(profile) {
 } printResume(profile);
 
 ```
-
+[![0xInle's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xInle&bg_color=151b23&color=a5d6ff&line=ff7b72&point=d1a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
