@@ -10,18 +10,20 @@ const profile = {
     "JavaScript",
     "SCSS",
     "Node.js",
-    "Gulp"
+    "Gulp",
+    "Git"
   ],
 
   contact: {
-    email: "xsk8er26x@gmail.com",
-    linkedin: "https://linkedin.com/in/sergey-biryukov",
+    email: "0xinle.dev@gmail.com",
+    telegram: "https://t.me/S_Biryukoff",
+    whatsapp: "https://wa.me/89600651546",
+    twitter: "https://x.com/Sea_Number_12",
     github: "https://github.com/0xInle"
   },
 
   learning: [
     "React",
-    "TypeScript",
-    "GraphQL"
+    "TypeScript"
   ]
 };
