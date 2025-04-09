@@ -10,8 +10,7 @@ const profile = {
     email: "0xinle.dev@gmail.com",
     telegram: "https://t.me/S_Biryukoff",
     whatsapp: "https://wa.me/89600651546",
-    twitter: "https://x.com/Sea_Number_12",
-    github: "https://github.com/0xInle"
+    twitter: "https://x.com/Sea_Number_12"
   },
   learning: ["React", "TypeScript"],
   hobbies: ["Snowboarding", "Crypto", "Books", "Mixology", "Cats", "Music"]
