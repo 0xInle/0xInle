@@ -11,7 +11,7 @@ const profile = {
     telegram: "https://t.me/S_Biryukoff",
     whatsapp: "https://wa.me/89600651546"
   },
-  learning: ["Nuxt.js", "TailwindCSS", "Vitest", "Advanced TypeScript", "GraphQL"]
+  learning: ["Nuxt.js", "TailwindCSS", "Vitest", "Advanced TypeScript", "GraphQL"],
   hobbies: ["Snowboarding", "Crypto", "Books", "Mixology", "Cats", "Music"]
 };
 
