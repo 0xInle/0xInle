@@ -5,13 +5,12 @@ const profile = {
   name: "Sergey Biryukov",
   role: "Frontend Developer",
   description: "I transform designs into fast, responsive, and user-friendly websites. Crafting interfaces that look stunning and work flawlessly.",
-  techStack: ["HTML", "CSS", "JavaScript", "Vue", "TypeScript" , "Node.js", "Gulp", "Git"],
+  techStack: ["HTML", "CSS", "JavaScript", "Vue", "TypeScript" , "Node.js", "Gulp", "Git", "Nuxt"],
   contact: {
     email: "0xinle.dev@gmail.com",
     telegram: "https://t.me/S_Biryukoff",
     whatsapp: "https://wa.me/89600651546"
   },
-  learning: ["Nuxt.js", "TailwindCSS", "Vitest", "Advanced TypeScript", "GraphQL"],
   hobbies: ["Snowboarding", "Crypto", "Books", "Mixology", "Cats", "Music"]
 };
 
