@@ -7,7 +7,7 @@ const profile = {
   description: "I transform designs into fast, responsive, and user-friendly websites. Crafting interfaces that look stunning and work flawlessly.",
   techStack: ["HTML", "CSS", "JavaScript", "Vue", "TypeScript" , "Node.js", "Gulp", "Git", "Nuxt"],
   contact: {
-    email: "0xinle.dev@gmail.com",
+    email: "s_biryukoff@inbox.ru",
     telegram: "https://t.me/S_Biryukoff",
     whatsapp: "https://wa.me/89600651546"
   },
